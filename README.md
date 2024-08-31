@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+![alt text](https://github.com/Aaroh4/Aaroh4/blob/main/kLLBKnm.jpg)
 <!--
 **Aaroh4/Aaroh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
