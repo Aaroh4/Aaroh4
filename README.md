@@ -1,6 +1,6 @@
 # Hello, I am Aaro! 👋
 
-<img src="https://github.com/Aaroh4/Aaroh4/blob/main/kLLBKnm.jpg" width="700" height="400"/>
+<img src="https://github.com/Aaroh4/Aaroh4/blob/main/kLLBKnm.jpg" width="800" height="400"/>
 
 ### Tech Stack
 [![C](https://skillicons.dev/icons?i=c)]()  [![C++](https://skillicons.dev/icons?i=cpp)]()
